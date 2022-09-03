@@ -1,4 +1,3 @@
+# .bash_profile
 
-alias git_sync"git pull -r && git push"
-
-alias ll="ls -laG"
+export PATH="$PATH:/Volumes/SSD_02/Desarrollo_BashScripts"
